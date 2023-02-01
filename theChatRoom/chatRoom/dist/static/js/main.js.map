@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/main.js","mappings":";;AAAAA,OAAO,CAACC,GAAG,CAAC,YAAY,CAAC,C","sources":["webpack://chatroom/./src/main.js"],"sourcesContent":["console.log('hello main')"],"names":["console","log"],"sourceRoot":""}
